@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Me
 layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
@@ -8,7 +8,7 @@ layout: page
 
 
 
-<h2>Skills</h2>
+<h2>skills</h2>
 
 <ul class="skill-list">
 	<li>Java</li>
@@ -18,7 +18,7 @@ layout: page
 
 </ul>
 
-<h2>Projects</h2>
+<h2>projects</h2>
 
 <ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
