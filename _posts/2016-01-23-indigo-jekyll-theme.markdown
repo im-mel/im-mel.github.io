@@ -1,5 +1,5 @@
 ---
-title: "Overcoming Functional Fixedness"
+title: "Overcoming Functional Fixedness!"
 layout: post
 date: 2015-01-23 22:10
 tag: videos
