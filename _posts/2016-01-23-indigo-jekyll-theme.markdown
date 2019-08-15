@@ -2,14 +2,14 @@
 title: ":ramen: Indigo, minimalist jekyll theme"
 layout: post
 date: 2016-01-23 22:10
-tag: jekyll
+tag: videos
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "Overcome functional fixedness"
 category: project
-author: johndoe
+author: im-mel
 externalLink: false
 ---
 
@@ -33,3 +33,4 @@ What has inside?
 
 [Check it out](http://sergiokopplin.github.io/indigo/) here.
 If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
+
