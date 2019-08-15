@@ -1,7 +1,7 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "Overcoming Functional Fixedness"
 layout: post
-date: 2016-01-23 22:10
+date: 2015-01-23 22:10
 tag: videos
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
