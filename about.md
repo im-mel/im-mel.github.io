@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi there, I'm a Bachelor of Arts & Science undergrad at McGill University. I study Cognitive Sciences while minoring in Computer Science. As I continue with my degree I learn more and more about the significantly increasing relationship between the two, and hope by doing so I will also discover my role within <em>both</em> domains.</p>
+<p>Greetings! I'm Melissa, or Mel for short. I'm a Bachelor of Arts & Science undergrad at McGill University studying both Cognitive Sciences and Computer Science. As I continue with my degree I learn more and more about the significantly increasing relationship between the two, and hope by doing so I will discover my own role within <em>both</em> domains.</p>
 
 
 
