@@ -11,7 +11,7 @@ layout: page
 ### Spidey_Crawl 
 Capable of indexing sites, implementing sorting algorithms, hashmaps, graphs and more 
 
-### Elementary_Math
+### Elementary_Mathematics
 Some code to implement long division, change bases or verify primes of big integers (modelled after Java's BigInteger class)
 
 # HCI Designs!
