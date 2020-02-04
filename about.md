@@ -10,15 +10,6 @@ layout: page
 
 <p> I'm always looking to learn more about UX, HCI, product management or just cool things in general so if you have any blog or book recommendations feel free to drop me a line on any of my socials! </p>
 
-
-<h2>Skills</h2>
-<ul class="skill-list">
-	<li>Java</li>
-	<li>Python</li>
-	<li>MATLAB</li>
-</ul>
-	
-
 <h2> Current Reading List: </h2>
 <ul class = "reading-list"> 
 	<li><a href= "https://mitpress.mit.edu/books/design-everyday-things">The Design of Everyday Things by Don Norman</a></li>
