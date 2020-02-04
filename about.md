@@ -8,7 +8,7 @@ layout: page
 
 <p> Outside of class, my interests span anywhere from mixed doubles tennis to mixed methods research. Currently, I am working on a fun project related to finding new methodologies in which cognitive neuropsychology which can improve the quality of human computer interaction and vice versa. A little far from home on exchange in Singapore till the summer, I hope to expand my horizons in the field on this side of the world.</p>
 
-<p> I'm always looking to learn more about UX, HCI, product management or just cool things in general so if you have any blog or book recommendations feel free to drop me a line on any of my socials! </p>
+<p> I'm always looking to learn more about UX, HCI, product management or just cool things in general so if you have any blog/ book/ website/ publication recommendations feel free to drop me a line on any of my socials! </p>
 
 <h2> Current Reading List </h2> 
 <ul class = "reading-list"> 
