@@ -1,12 +1,10 @@
 ---
 title: "A Month in Review - January 2020"
 layout: post
-date: 2020-02-01 12:00
+date: 2020-02-01 
 image: /assets/images/markdown.jpg
 headerImage: false
-tag:
-- markdown
-- elements
+tag: false
 star: false
 category: blog
 author: melissa li
