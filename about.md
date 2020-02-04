@@ -15,5 +15,6 @@ layout: page
 	<li><a href= "https://mitpress.mit.edu/books/design-everyday-things">The Design of Everyday Things by Don Norman</a></li>
 	<li><a href="https://books.google.com.sg/books?id=dWYyCwAAQBAJ&printsec=frontcover&dq=homo+deus+a+brief+history+of+tomorrow&hl=en&sa=X&redir_esc=y#v=onepage&q=homo%20deus%20a%20brief%20history%20of%20tomorrow&f=false">Homo Deus: A Brief History of Tomorrow by Yuval Noah Harari</a></li>
 	<li><a href="https://en.wikipedia.org/wiki/Nonviolent_Communication">Non-Violent Communication: A Language of Life by Marshall B. Rosenberg</a></li>
-#### Updated: Feb 4 2020 
+
+##### Updated: Feb 4 2020 
 
