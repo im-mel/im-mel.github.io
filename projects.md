@@ -15,7 +15,8 @@ Since taking a course in HCI, I have increasingly thought about how to better ap
 
 
 ### Snake Bite Prevention and Intervention 
-> <em> "Snake bite is a neglected public health issue in many tropical and subtropical countries. About 5.4 million snake bites occur each year, resulting in 1.8 to 2.7 million cases of envenomings (poisoning from snake bites).There are between 81 410 and 137 880 deaths and around three times as many amputations and other permanent disabilities each year." </em> - World Health Organization
+> <em> "Snake bite is a neglected public health issue in many tropical and subtropical countries. About 5.4 million snake bites occur each year, resulting in 1.8 to 2.7 million cases of envenomings (poisoning from snake bites).There are between 81 410 and 137 880 deaths and around three times as many amputations and other permanent disabilities each year." </em> 
+- World Health Organization, April 2019
   
   Working on collecting user data and research remotely, to improve an application by Newton Technologies aimed at snake bite prevention and intervention through crowdsourced information. 
 
