@@ -27,13 +27,13 @@ Over the summer 2019, I was able to work at the Montreal Neurological Institute 
 
 
 
-# Case Studies!
+# C A S E  S T U D I E S 
 Coming soon...
 
 
 
 
-# Code!
+# C O D E
 ### Email_Validator
 [Email_Validator](https://github.com/im-mel/Email_Validator) is one of my first Java projects, a simple email address verification code designed to be implemented during login processes
 
