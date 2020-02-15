@@ -28,7 +28,7 @@ Over the summer 2019, I was able to work at the Montreal Neurological Institute 
 
 
 
-## C A S E  S T U D I E S 
+## C A S E _ S T U D I E S 
 Coming soon...
 
 
