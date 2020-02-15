@@ -16,14 +16,14 @@ Since taking a course in HCI, I have increasingly thought about how to better ap
 
 ### Snake Bite Prevention and Intervention 
 > <em> "Snake bite is a neglected public health issue in many tropical and subtropical countries. About 5.4 million snake bites occur each year, resulting in 1.8 to 2.7 million cases of envenomings (poisoning from snake bites).There are between 81 410 and 137 880 deaths and around three times as many amputations and other permanent disabilities each year." </em> 
-- World Health Organization, April 2019
+-World Health Organization, April 2019
   
   Working on collecting user data and research remotely, to improve an application by Newton Technologies aimed at snake bite prevention and intervention through crowdsourced information. 
 
 
 
 ### Improving Interfaces to Increase Viable Data Points
-Over the summer 2019, I was able to work at the Montreal Neurological Institute as an Undergraduate Researcher in the lab of McConnell Brain Imaging Center Director Dr. Julien Doyon and Université de Montréal's Julie Carrier. During the piloting phase of this neuropsychology experiment, I collected participant data which included cognitive tests, observational studies, EEG data and surveys. Through first hand collection of the data, I was able to provide feedback to software engineers on our team to tweak the user interface of the online tasks, therefore increasing the number of viable data points per session. This experience was extremely engaging and something I found myself to be passionate about, hence igniting my interests in user studies for interfaces and real world applications. 
+Over the summer 2019, I was able to work at the Montreal Neurological Institute as an Undergraduate Researcher in the lab of McConnell Brain Imaging Center Director Dr. Julien Doyon and Université de Montréal's Julie Carrier. During the piloting phase of our neuropsychology experiment, I collected participant data through means which included but were not limited to: cognitive tests, observational studies, electroencephalography and surveys. My most fond achievement during this period, was being able to increase the number of viable data points per session by providing feedback to the SWEs on our team to tweak the user interface of the online tasks. This experience was extremely engaging and something I found myself to be passionate about, hence igniting my interests in user studies for interfaces and real world applications. 
 
 
 
