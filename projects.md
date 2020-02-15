@@ -2,7 +2,7 @@
 title: Projects
 layout: page
 ---
-
+<P>
 # R E S E A R C H
 ## Facial Recognition and Teaching Emotional Regulation
 Currently, working as a PM/UXR in the A.I.R. (Artificial Intelligence Research) lab at Nanyang Technological University under Professor Yew Soon Ong. Partnering with the Association for Personal Needs and the Ministry of Education, we apply artificial intelligence to improve applications we have launched in the school board to help teachers enrich the learning experience for children who have difficulties with emotional expression and regulation. I am greateful for the opportunity to apply my cognitive neuropsychology background with my interests in user research and the product lifecycle to create a minimum viable product that has tremendous impact on the lives of our users.
@@ -43,7 +43,7 @@ Capable of indexing sites, implementing sorting algorithms, hashmaps, graphs and
 ### Elementary_Mathematics
 Some code to implement long division, change bases or verify primes of big integers (modelled after Java's BigInteger class)
 
-
+</P>
 
 
 
