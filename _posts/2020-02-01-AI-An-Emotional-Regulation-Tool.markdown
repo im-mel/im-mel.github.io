@@ -1,7 +1,7 @@
 ---
-title: "Overcoming Functional Fixedness!"
+title: "Improving The Toolbox for Teaching Emotional Regulation"
 layout: post
-date: 2015-01-23 22:10
+date: 2015-01-23
 tag: false
 image: false
 headerImage: false
@@ -12,4 +12,24 @@ author: im-mel
 externalLink: false
 ---
 
-testing testing
+## Background
+Currently, working as a researcher in the A.I.R. (Artificial Intelligence Research) lab at Nanyang Technological University under Professor Yew Soon Ong. Partnering with the Association for Persons with Special Needs (ASPN) and the Ministry of Education, we use AI applications such as facial recognition to improve applications tailored for the Ministry of Education to help teachers enrich the learning experience for children who have difficulties with emotional expression and regulation. My role is to complete the user research to improve, as well as add new features to create a MVP to launch in the market that could potentially help all educators for children with special needs, whether affiliated with the Ministry of Education or not. 
+
+I am greateful for the opportunity to combine my cognitive neuropsychology background with my interests in user research and the product lifecycle to create an MVP that will have greatly impact on the lives of our users. :)
+
+## UX Research Methodologies
+- Personas
+- Cognitive walkthroughs
+- Card sorting 
+- Directed and non-directed interviews
+- Unmoderated usability tests
+
+## Secondary Research
+Reading publications, especially in topics related to cognitive psychology to support new features. Topics include:
+- Attention
+- Memory
+- Learning
+- Motivation 
+- Reasoning 
+- Emotional regulation and emotional intelligence 
+- Teaching children with special needs 
