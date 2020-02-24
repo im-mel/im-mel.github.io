@@ -1,5 +1,5 @@
 ---
-title: "UXRxNEUROPSYCH___Increasing Viable Data Points"
+title: "UXR x NeuroPsych___Increasing Viable Data Points"
 layout: post
 date: 2019-12-01 00:00
 tag: false
@@ -11,3 +11,7 @@ category: project
 author: im-mel
 externalLink: false
 ---
+
+## Background
+Over the summer 2019, I was able to work at the Montreal Neurological Institute as an Undergraduate Researcher in the lab of McConnell Brain Imaging Center Director Dr. Julien Doyon and Université de Montréal’s Julie Carrier. During the piloting phase of our neuropsychology experiment, I collected participant data through means which included but were not limited to: cognitive tests, observational studies, electroencephalography and surveys. My most fond achievement during this period, was being able to increase the number of viable data points per session by providing feedback to the SWEs on our team to tweak the user interface of the online tasks. This experience was extremely engaging and something I found myself to be passionate about, hence igniting my interests in user studies for interfaces and real world applications.
+
