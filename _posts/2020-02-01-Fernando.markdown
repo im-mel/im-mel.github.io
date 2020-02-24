@@ -1,5 +1,5 @@
 ---
-title: "UXR___Aiding the Snake Bite Endemic"
+title: "UXR___Crowdsourcing to Aid the Snake Bite Endemic"
 layout: post
 date: 2020-01-20 11:11
 tag: false
