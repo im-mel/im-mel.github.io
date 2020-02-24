@@ -5,7 +5,7 @@ date: 2015-01-23 22:10
 tag: videos
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
-projects: true
+projects: false
 hidden: true # don't count this post in blog pagination
 description: "Overcome functional fixedness"
 category: project
