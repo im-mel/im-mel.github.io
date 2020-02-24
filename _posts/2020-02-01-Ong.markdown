@@ -1,5 +1,5 @@
 ---
-title: ":star: UXR x AI x NeuroPsych___Improving The Toolbox for Teaching Emotional Regulation"
+title: ":star: UXR x AI x NeuroPsych___Improving The Toolbox for Emotional Regulation"
 layout: post
 date: 2020-02-01 00:01
 tag: false
