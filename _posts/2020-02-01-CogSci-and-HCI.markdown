@@ -1,5 +1,5 @@
 ---
-title: "HCI x NeuroPsych___Neuropsychology and Human Computer Interaction"
+title: "HCI x NeuroPsych___'Neuropsychology and Human Computer Interaction'"
 layout: post
 date: 2020-02-01 00:00
 tag: false
