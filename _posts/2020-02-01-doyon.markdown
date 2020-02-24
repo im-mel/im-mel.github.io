@@ -6,7 +6,7 @@ tag: false
 image: false
 headerImage: false
 projects: true
-description: "How can we better teach emotional regulation?"
+description: "Using UXR to increase viable data points in a neuropsychology experiment"
 category: project
 author: im-mel
 externalLink: false
