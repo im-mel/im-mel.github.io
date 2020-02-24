@@ -1,7 +1,4 @@
----
-title: Projects
-layout: page
----
+
 
 ## R E S E A R C H
 ### Facial Recognition and Teaching Emotional Regulation
