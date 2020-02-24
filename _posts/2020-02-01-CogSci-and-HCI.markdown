@@ -1,5 +1,5 @@
 ---
-title: "UXR/HXI/CogSci__Cognitive Neuropsychology and Human Computer Interaction"
+title: "UXR_HXI_CogSci___Cognitive Neuropsychology and Human Computer Interaction"
 layout: post
 date: 2020-02-01 00:00
 tag: false
