@@ -1,5 +1,5 @@
 ---
-title: "UXR + NEUROPSYCHOLOGY__Increasing Viable Data Points"
+title: "UXR + NEUROPSYCHOLOGY___Increasing Viable Data Points"
 layout: post
 date: 2020-02-01 00:01
 tag: false
