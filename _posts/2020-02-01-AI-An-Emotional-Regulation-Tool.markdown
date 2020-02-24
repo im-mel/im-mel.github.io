@@ -1,5 +1,5 @@
 ---
-title: "UXR/AI_Improving The Toolbox for Teaching Emotional Regulation"
+title: "UXR / AI__Improving The Toolbox for Teaching Emotional Regulation"
 layout: post
 date: 2020-02-01 00:01
 tag: false
