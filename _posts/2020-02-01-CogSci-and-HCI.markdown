@@ -1,7 +1,7 @@
 ---
 title: "Cognitive Neuropsychology and Human Computer Interaction"
 layout: post
-date: false
+date: 2020-02-01
 tag: false
 image: false
 headerImage: false
