@@ -1,7 +1,7 @@
 ---
 title: "UXR___Aiding the Snake Bite Endemic"
 layout: post
-date: false
+date: 2020-01-20 11:11
 tag: false
 image: false
 headerImage: false
