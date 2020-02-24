@@ -25,7 +25,7 @@ I am greateful for the opportunity to combine my cognitive neuropsychology backg
 - Unmoderated Usability Tests
 
 ## Secondary Research
-Equally as important as the user research, is my resesarch on the cognitive psychology aspects of child development, and emotional learning, particularly in children with special needs. Some areas of recurring secondary research I focus on for this project include:
+Equally as important as the user research, is my resesarch on the cognitive psychology aspects of child development and emotional learning, particularly in children with special needs. There is no better way incorporate human centric design than to understand the humans themselves - on a neuropsychological level. Some areas of recurring secondary research I focus on for this project include:
 - Attention
 - Memory
 - Learning
