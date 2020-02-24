@@ -18,11 +18,11 @@ Currently, working as a researcher in the A.I.R. (Artificial Intelligence Resear
 I am greateful for the opportunity to combine my cognitive neuropsychology background with my interests in user research and the product lifecycle to create an MVP that will have greatly impact on the lives of our users. :)
 
 ## UX Research Methodologies
-- Personas
-- Cognitive walkthroughs
-- Card sorting 
-- Directed and non-directed interviews
-- Unmoderated usability tests
+- User Personas
+- Cognitive Walkthroughs
+- Card Sorting 
+- Directed and Non-Directed Interviews
+- Unmoderated Usability Tests
 
 ## Secondary Research
 Reading publications, especially in topics related to cognitive psychology to support new features. Topics include:
