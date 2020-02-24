@@ -1,7 +1,7 @@
 ---
 title: "Improving The Toolbox for Teaching Emotional Regulation"
 layout: post
-date: 2015-01-23
+date: false
 tag: false
 image: false
 headerImage: false
