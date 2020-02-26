@@ -33,3 +33,103 @@ Equally as important as the user research, is my resesarch on the cognitive psyc
 - Reasoning 
 - Emotional regulation and emotional intelligence 
 - Teaching children with special needs 
+
+Ministry of Education User Research for an Emotional Education Application for Children with Special Needs
+
+BACKGROUND 
+I am working as a User Researcher at the Data Science and Artificial Intelligence Research Lab at Nanyang Technological University for an educational application called Emoji Captcha. This tool helps facilitate children with special needs in their learning of how to recognize, regulate, and relay emotions. EmojiCaptcha was created in partnership with the Association for Persons with Special Needs and the Singaporean Ministry of Education, therefore all of the user data I collect, analyze and extrapolate on comes from the two sources. 
+
+ABOUT THE APPLICATION
+The gamified aspect of the application is to display different emojis whereby the children will mimic the expression displayed on the screen. The facial recognition feature will track the different emotions and show what is being recorded so the children can have immediate feedback as well. They can collect scores and move up the ranks through proper emotional recognition and subsequent appropriate expression.
+
+USERS AND AUDIENCE 
+The two user groups for this EmojiCaptcha were the educators who were facilitating usage of the application and the students who were children with a range of different special individual needs. This audience was accessible for data collection because of our partnership with the Association for Persons with Special Needs and the Singaporean Ministry of Education. 
+  
+MY ROLE 
+As a User Researcher at DSAIR, I regularly apply my background in cognitive sciences, computer science and research. My role is to conduct the user research to improve on existing, as well as add new features that could eventually lead towards launching a product that could help all educators for children with special needs, whether affiliated with the Ministry of Education or not. I work alongside a wonderful team consisting of a product manager, designer and developer to help me bring my research to life. Some UX methodologies in this study include: 
+•	User personas
+•	Cognitive walkthroughs
+•	Card sorting
+•	Interviews
+•	Surveys
+•	Unmoderated usability tests
+I also apply my cognitive psychology skills where possible during our brainstorming sessions to enrich the academic side of our mission and strengthen our decisions with substantial support. Some areas of secondary cognitive psychology research incorporated include: 
+•	Human motivation
+•	Attention
+•	Child development
+•	Learning
+
+GOALS 
+•	Identify pain points for both user groups - students and teachers/educators facilitating usage of the application both in and out of a classroom environment
+•	Enhance accessibility for a range of different special needs groups
+•	Improve usability and design interface – empathize with needs outlined by ASPN
+
+PROCESS 
+Collaborating with the PM, we assessed what we currently had, and the direction we needed to take the project. A main pain point and frustration was the way the current UI design and usability/accessibility was misaligned; something especially crucial considering our audience of children with special needs and the educators who would have several students with specific needs to facilitate. I leveraged the data we collected to create user personas and made new prototypes specifically empathizing with our specific demographic. 
+
+Here is a user persona of a Special Needs Educator named “Jeannette Lim”: 
+Image 1: User Persona for Special Needs Educator “Jeannette Lim”
+
+Through iteration of ideas and playing with iconography, here is an example of an early prototype I made for the landing page:
+ 
+Image 2: An early prototype of the main landing page of EmojiCaptcha
+
+Some reasons for improvements that were made from the first version include:
+•	Emphasizing a “Practice” feature with a camera logo instead of trophy so that students are able to learn the key technological aspect of the application without being discouraged from lower scores during trial and error phase of learning
+•	Getting rid of “About” button and integrating the information with the “Practice” feature to reduce redundancy 
+•	Larger buttons to enhance accessibility – specifically for children with trouble with finer motor movements 
+•	Swapping “Statistic” button with easily accessible and readable statistics at the top of the main page in a fun bar format, simultaneously reducing the need for children to read words such as “statistic”
+•	Changing the colour scheme incorporating the colour yellow based on positive psychology and aligning with the emoji theme
+
+
+
+
+
+
+
+
+
+BEFORE AND AFTER OF LANDING PAGE
+ 
+Image 3: Before image of Landing Page
+
+ 
+Image 4: After image of Landing Page – most of prototype adopted, some details rearranged
+
+
+
+
+
+
+
+
+BEFORE AND AFTER OF GAME INTERFACE – White square where students face will be displayed 
+ 
+Image 5: Before image of game interface
+
+ 
+Image 6: After image of game interface
+
+
+
+
+
+BEFORE AND AFTER IMAGE OF RESULTS PAGE - White square where students face will be displayed 
+ 
+Image 7: Before image of results page
+
+ 
+Image 8: After image of results page
+
+
+
+
+
+
+WHATS NEXT
+After improvements towards usability and the interface design have been made, the next steps will be to continue to conduct user research for potential features that can be integrated into the existing product that improve the sustainability of the user audience. We can begin to build on different quizzes for varying levels of ability within a group. In terms of user research, A/B testing is likely to be executed next to see which types of quizzes and gamification techniques are best accepted by the users.
+
+Here is an image of what adding additional levels might look like:
+ 
+
+
