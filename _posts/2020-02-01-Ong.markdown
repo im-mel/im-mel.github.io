@@ -13,7 +13,7 @@ externalLink: false
 ---
 
 ## Case Study 
-A [small snippet of a case study](assets/ASPN_Report.pdf) I have done.
+Part of a case study for the user research I have done so far can be found [here](assets/ASPN_Report.pdf).
 
 ## Background
 Currently, working as a researcher in the A.I.R. (Artificial Intelligence Research) lab at Nanyang Technological University under [Professor Yew Soon Ong](https://www.a-star.edu.sg/About-A-STAR/corporate-profile/people/professor-ong-yew-soon). Partnering with the Association for Persons with Special Needs (ASPN) and the Ministry of Education, we use AI applications such as facial recognition to improve applications tailored for the Ministry of Education to help teachers enrich the learning experience for children who have difficulties with emotional expression and regulation. My role is to complete the user research to improve, as well as add new features to create a MVP to launch in the market that could potentially help all educators for children with special needs, whether affiliated with the Ministry of Education or not. 
