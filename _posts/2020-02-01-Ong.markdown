@@ -1,5 +1,5 @@
 ---
-title: ":star: UXR x NeuroPsych___A Case Study for EmojiCaptcha: An Emotional Education Tool"
+title: ":star: UXR x NeuroPsych___Case Study for EmojiCaptcha: An Emotion Education Tool"
 layout: post
 date: 2020-02-01 00:01
 tag: false
