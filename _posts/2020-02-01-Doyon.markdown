@@ -3,7 +3,7 @@ title: "UXR x NeuroPsych___Increasing Viable Data Points"
 layout: post
 date: 2019-12-01 00:00
 tag: false
-image: 
+image: true
 headerImage: false
 projects: true
 description: "Using UXR to increase viable data points in a neuropsychology experiment"
@@ -17,5 +17,6 @@ Starting in Summer 2019 and continuing into the fall semester, I worked at the M
 
 My most fond achievement during my time with this lab, was being able to increase the number of viable data points per session by providing feedback to the SWEs on our team to enhance accessibility (for our older participants) and usability of the interface design of the online tasks. Facilitating this particular improvement was extremely engaging for me, hence igniting my interests in user studies for interfaces and real world applications.
 
+![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
 ![Screenshot](https://raw.githubusercontent.com/im-mel/im-mel.github.io/gh-pages/assets/HBHL_Recruitment.png)
 Image of participant recruitment flyer I made using Microsoft Word and Adobe Photoshop.
