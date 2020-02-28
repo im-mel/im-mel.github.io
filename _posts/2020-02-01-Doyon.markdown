@@ -17,7 +17,6 @@ Starting in Summer 2019 and continuing into the fall semester, I worked at the M
 
 My most fond achievement during my time with this lab, was being able to increase the number of viable data points per session by providing feedback to the SWEs on our team to enhance accessibility (for our older participants) and usability of the interface design of the online tasks. Facilitating this particular improvement was extremely engaging for me, hence igniting my interests in user studies for interfaces and real world applications.
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
-![Screenshot](https://raw.githubusercontent.com/im-mel/im-mel.github.io/assets/HBHL_Recruitment.png)
+![Screenshot](https://raw.githubusercontent.com/im-mel/im-mel.github.io/master/assets/HBHL_Recruitment.png)
 
 Image of participant recruitment flyer I made using Microsoft Word and Adobe Photoshop.
