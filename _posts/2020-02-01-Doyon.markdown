@@ -1,7 +1,7 @@
 ---
 title: "UXR x NeuroPsych___Increasing Viable Data Points"
 layout: post
-date: 2019-12-01 00:00
+date: 2020-02-01 00:00
 tag: false
 image: true
 headerImage: false
