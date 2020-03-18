@@ -13,7 +13,7 @@ externalLink: false
 ---
 
 ## Case Study 
-Click or tap [here](https://im-mel.github.io/assets/ASPN_Report.pdf) to view the full case study.
+Click or tap [here](https://melissafengli.wixsite.com/mysite-6/project-01) to view the full case study.
 
 ## Background
 Currently, working as a researcher in the Data Science and Artificial Intelligence Research (DSAIR) lab at Nanyang Technological University under the supervision of [Director Yew Soon Ong](https://www.a-star.edu.sg/About-A-STAR/corporate-profile/people/professor-ong-yew-soon). Partnering with the Association for Persons with Special Needs (ASPN) and the Ministry of Education, we implement AI based tools such as facial recognition to improve applications tailored for educators to enrich the learning experience for children with special needs who have difficulties with emotional expression and regulation. My role is to complete the user research to improve the UX/UI as well as brainstorm and test new features of the product. 
